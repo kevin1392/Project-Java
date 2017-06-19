@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09-may-2017, 3:31:34
+    Author     : Admin
+*/
+
+html{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("conocha.jpg");
+    background-repeat:repeat;
+}
+.boxlogin{
+    border-radius: 4px;
+    
+    margin: 100px auto;
+    width: 320px;
+    -webki-border-radius: 4px;
+    -moz-border-radius: 4px;
+}
+button[type="submit"]{
+    margin-top: 14px;
+}
+.fd{
+    background-image: url("conocha.jpg");
+    background-repeat:repeat;
+}
